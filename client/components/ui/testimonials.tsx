@@ -126,7 +126,7 @@ const Testimonials = () => {
   };
 
   return (
-    <section ref={sectionRef} className="py-2 bg-gradient-to-br from-gray-50 to-white">
+    <section ref={sectionRef} className="py-20 bg-gradient-to-br from-gray-50 to-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className={`text-center mb-16 transition-all duration-1000 ease-out ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>

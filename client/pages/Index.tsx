@@ -28,11 +28,11 @@ export default function Index() {
       {/* Key Offerings Section */}
       <KeyOfferings />
 
-      {/* Testimonials Section */}
-      <Testimonials />
-
       {/* Learning Hub Section */}
       <LearningHub />
+
+      {/* Testimonials Section */}
+      <Testimonials />
 
       {/* FAQ Section */}
       <FAQ />

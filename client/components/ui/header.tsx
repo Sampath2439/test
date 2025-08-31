@@ -11,6 +11,7 @@ const Header = () => {
     { href: '#home', label: 'Home', scrollTo: 'hero' },
     { href: '#about', label: 'About Us', scrollTo: 'about' },
     { href: '#programs', label: 'Programs', scrollTo: 'programs' },
+    { href: '#partners', label: 'Our Official Partners', scrollTo: 'partners' },
     { href: '#contact', label: 'Contact', scrollTo: 'contact' },
   ];
 

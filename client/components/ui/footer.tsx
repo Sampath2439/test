@@ -213,7 +213,7 @@ const Footer = () => {
               {/* Newsletter Signup */}
               <div className="w-full md:w-auto">
                 <h3 className="text-lg font-semibold mb-4 text-white">Stay Updated</h3>
-                <div className="flex space-x-2">
+                <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-2">
                   <input
                     type="email"
                     placeholder="Enter your email"

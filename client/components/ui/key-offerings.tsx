@@ -232,7 +232,7 @@ const KeyOfferings = () => {
   return (
     <section
       ref={sectionRef}
-      className="py-20 bg-gradient-to-br from-white to-gray-50"
+      className="py-8 bg-gradient-to-br from-white to-gray-50"
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
@@ -402,7 +402,7 @@ const KeyOfferings = () => {
       
       
     <div className="container mx-auto px-4 sm:px-6 lg:px-8 mt-16 flex justify-center">
-        <div className="inline-flex items-center space-x-2 bg-purple-100 text-purple-700 px-4 py-2 rounded-full text-sm md:text-lg font-medium">
+        <div id="partners" className="inline-flex items-center space-x-2 bg-purple-100 text-purple-700 px-4 py-2 rounded-full text-sm md:text-lg font-medium">
           <Package className="w-4 h-4" />
           <span>Our Official Partners</span>
         </div>
