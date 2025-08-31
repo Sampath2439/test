@@ -69,7 +69,7 @@ const WhyChooseUs = () => {
                   {/* Children classroom discussion image */}
                   <div className="absolute inset-0 rounded-2xl overflow-hidden">
                     <img
-                      src="https://cdn.builder.io/api/v1/image/assets%2Fa689521c3c5e4053a2feb0032c12a446%2F9664f5c3e03345a9841ebabb9a4ed7c0?format=webp&width=800"
+                      src="./choose.png"
                       alt="Children engaging in classroom discussion and collaborative learning"
                       className="w-full h-full object-cover object-center rounded-2xl"
                     />
@@ -84,18 +84,18 @@ const WhyChooseUs = () => {
                       strokeWidth={3}
                     />
                   </div>
-                  <div className="absolute top-12 right-8 w-12 h-12 bg-white/90 rounded-full shadow-lg flex items-center justify-center backdrop-blur-sm">
+                  {/* <div className="absolute top-12 right-8 w-12 h-12 bg-white/90 rounded-full shadow-lg flex items-center justify-center backdrop-blur-sm">
                     <Brain
                       className="w-6 h-6 text-edu-purple-500"
                       strokeWidth={3}
                     />
-                  </div>
-                  <div className="absolute bottom-16 left-12 w-14 h-14 bg-white/90 rounded-full shadow-lg flex items-center justify-center backdrop-blur-sm">
+                  </div> */}
+                  {/* <div className="absolute bottom-16 left-12 w-14 h-14 bg-white/90 rounded-full shadow-lg flex items-center justify-center backdrop-blur-sm">
                     <Gamepad2
                       className="w-7 h-7 text-edu-orange-500"
                       strokeWidth={3}
                     />
-                  </div>
+                  </div> */}
                 </div>
               </div>
 

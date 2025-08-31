@@ -104,7 +104,7 @@ const Hero = () => {
                   {/* Student learning image */}
                   <div className="absolute inset-0 rounded-2xl overflow-hidden">
                     <img
-                      src="https://cdn.builder.io/api/v1/image/assets%2Fa689521c3c5e4053a2feb0032c12a446%2F9ff28afb571a42178bfbfc94a83e48ad?format=webp&width=800"
+                      src="./head.png"
                       alt="Young student thinking and learning with educational concepts"
                       className="w-full h-full object-cover object-center rounded-2xl"
                     />
