@@ -34,7 +34,7 @@ const Header = () => {
             <img
               src="./main_logo.svg"
               alt="MySchool - The Soul of Education"
-              className="h-16 w-32"
+              className="h-12 w-28"
             
             />
           </Link>
