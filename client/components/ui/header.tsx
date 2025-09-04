@@ -34,7 +34,7 @@ const Header = () => {
             <img
               src="https://cdn.builder.io/api/v1/image/assets%2Fa689521c3c5e4053a2feb0032c12a446%2Fcfc9b51d63b940888d2ec611e54a9b8f?format=webp&width=800"
               alt="MySchool - The Soul of Education"
-              className="h-8 w-32"
+              className="h-10 w-24"
             
             />
           </Link>
