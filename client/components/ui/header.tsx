@@ -32,7 +32,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center transition-transform duration-200 hover:scale-105">
             <img
-              src="https://cdn.builder.io/api/v1/image/assets%2Fa689521c3c5e4053a2feb0032c12a446%2Fcfc9b51d63b940888d2ec611e54a9b8f?format=webp&width=800"
+              src="./main_logo.svg"
               alt="MySchool - The Soul of Education"
               className="h-10 w-24"
             
