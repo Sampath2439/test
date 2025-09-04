@@ -35,7 +35,7 @@ const Header = () => {
             className="flex items-center transition-transform duration-200 hover:scale-105"
           >
             <img
-              src="./main_logo.svg"
+              src="./logo.png"
               alt="MySchool - The Soul of Education"
               className="h-8 md:h-6 lg:h-8 w-auto"
             />
