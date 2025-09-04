@@ -72,7 +72,7 @@ const Footer = () => {
             <div className="lg:col-span-2">
               <Link to="/" className="flex items-center mb-6 group">
                 <img
-                  src="https://cdn.builder.io/api/v1/image/assets%2Fa689521c3c5e4053a2feb0032c12a446%2Fcfc9b51d63b940888d2ec611e54a9b8f?format=webp&width=800"
+                  src="./main_logo.svg"
                   alt="MySchool - The Soul of Education"
                   className="h-10 w-auto group-hover:scale-110 transition-transform duration-200 brightness-0 invert"
                 />
